@@ -1,0 +1,11 @@
+=== CREDITS ===
+
+Create Guns [Unofficial 1.20.1 Port]:
+https://github.com/gnegDev/create-guns-1.20.1-unofficial-port
+
+Vanilla Tweaks:
+https://vanillatweaks.net/
+Vanilla Tweaks Resource Pack
+Version: 1.20
+Packs:
+	HDShieldBanners
